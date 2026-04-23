@@ -1,0 +1,16 @@
+### application-local.yml (secrets) ###
+src/main/resources/application-local.yml
+
+### Gradle ###
+.gradle/
+build/
+
+### IntelliJ ###
+.idea/
+*.iml
+*.iws
+out/
+
+### OS ###
+.DS_Store
+Thumbs.db
